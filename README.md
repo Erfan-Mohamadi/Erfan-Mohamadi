@@ -55,8 +55,8 @@ I'm a passionate junior backend developer focused on building clean, fast, and s
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: `youremail@example.com`
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: 'erfan.mohamadi017@gmail.com'
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/erfanmohamadi)
 
 ---
 
