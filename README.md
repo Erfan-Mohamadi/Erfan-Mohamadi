@@ -7,7 +7,7 @@
 ---
 
 ### 💡 About Me
-I'm a passionate junior backend developer focused on building clean, fast, and scalable Laravel applications. I love self-hosting, tweaking Linux servers, and making developer tools work for me — especially on my od ThinkPad T420 🧠💻.
+I'm a passionate junior backend developer focused on building clean, fast, and scalable Laravel applications. I love self-hosting, tweaking Linux servers, and making developer tools work for me — especially on my old ThinkPad T420 🧠💻.
 
 ---
 
@@ -55,11 +55,11 @@ I'm a passionate junior backend developer focused on building clean, fast, and s
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: 'erfan.mohamadi017@gmail.com'
-- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/erfanmohamadi)
+- 📧 Email: erfan.mohamadi017@gmail.com  
+- 💼 LinkedIn: [Follow me on LinkedIn](https://www.linkedin.com/in/erfanmohamadi)
 
 ---
 
 <p align="center">
-  Made with ❤️ by Erfan Mohamadi
+  Thanks for visiting my profile!
 </p>
